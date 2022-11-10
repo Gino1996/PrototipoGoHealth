@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>WayPointsCayambe</name>
+	<description>Puntos de recorrido en la ciudad de Cayambe</description>
+	<gx:CascadingStyle kml:id="__managed_style_29BFA59C3B247893E421">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_184E54748C247893E421">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_046AD9DB81247893E421">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_184E54748C247893E421</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29BFA59C3B247893E421</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00F7B1280D247893B593">
+		<name>Rutas parque</name>
+		<description><![CDATA[<div><br></div><div id="SL_balloon_obj" alt="0" style="display: block;"><div id="SL_button" class="SL_ImTranslatorLogo" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/imtranslator-s.png&quot;); display: none;"></div><div id="SL_shadow_translation_result2" style="display: none;"></div><div id="SL_shadow_translator" style="border-radius: 10px; left: -10000px; top: -10000px; display: none;"><div id="SL_planshet" style="border-radius: 10px 10px 0 0;"><div id="SL_arrow_up" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/up.png&quot;);"></div><div id="SL_Bproviders"></div><div id="SL_alert_bbl" style="display: none;"><div id="SLHKclose" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/delete.png&quot;);"></div><div id="SL_alert_cont"></div></div><div id="SL_TB"><table id="SL_tables" cellspacing="1"><tr><td class="SL_td" width="10%" align="right"><input id="SL_locer" type="checkbox" title="Fijar idioma"></td><td class="SL_td" width="20%" align="left"><select id="SL_lng_from" class="SL_lngs"><option value="auto">Detectar idioma</option><option value="af">Afrikáans</option><option value="sq">Albanés</option><option value="de">Alemán</option><option value="am">Amhárico</option><option value="ar">Árabe</option><option value="hy">Armenio</option><option value="az">Azerí</option><option value="bn">Bengalí</option><option value="be">Bielorruso</option><option value="my">Birmano</option><option value="bs">Bosnio</option><option value="bg">Búlgaro</option><option value="km">Camboyano</option><option value="kn">Canarés</option><option value="ca">Catalán</option><option value="ceb">Cebuano</option><option value="cs">Checo</option><option value="ny">Chichewa</option><option value="zh-CN">Chino simp</option><option value="zh-TW">Chino trad</option><option value="si">Cincalés</option><option value="ko">Coreano</option><option value="co">Corso</option><option value="ht">Criollo haitiano</option><option value="hr">Croata</option><option value="da">Danés</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option value="es">Español</option><option value="eo">Esperanto</option><option value="et">Estonio</option><option value="eu">Euskera</option><option value="fi">Finlandés</option><option value="fr">Francés</option><option value="fy">Frisio</option><option value="gd">Gaélico escocés</option><option value="cy">Galés</option><option value="gl">Gallego</option><option value="ka">Georgiano</option><option value="el">Griego</option><option value="gu">Gujarati</option><option value="ha">Hausa</option><option value="haw">Hawaiano</option><option value="iw">Hebreo</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandés</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonesio</option><option value="en">Inglés</option><option value="ga">Irlandés</option><option value="is">Islandés</option><option value="it">Italiano</option><option value="ja">Japonés</option><option value="jw">Javanés</option><option value="kk">Kazajo</option><option value="ky">Kirguís</option><option value="ku">Kurdo</option><option value="lo">Lao</option><option value="la">Latín</option><option value="lv">Letón</option><option value="lt">Lituano</option><option value="lb">Luxemburgués</option><option value="mk">Macedonio</option><option value="ml">Malayalam</option><option value="ms">Malayo</option><option value="mg">Malgache</option><option value="mt">Maltés</option><option value="mi">Maorí</option><option value="mr">Maratí</option><option value="mn">Mongol</option><option value="ne">Nepalí</option><option value="no">Noruego</option><option value="pa">Panyabí</option><option value="ps">Pastún</option><option value="fa">Persa</option><option value="pl">Polaco</option><option value="pt">Portugués</option><option value="ro">Rumano</option><option value="ru">Ruso</option><option value="sm">Samoano</option><option value="sr">Serbio</option><option value="st">Sesoto</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="so">Somalí</option><option value="sw">Suajili</option><option value="sv">Sueco</option><option value="su">Sundanés</option><option value="tl">Tagalo</option><option value="th">Tailandés</option><option value="ta">Tamil</option><option value="tg">Tayiko</option><option value="te">Telugu</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeco</option><option value="vi">Vietnamita</option><option value="xh">Xhosa</option><option value="yi">Yidis</option><option value="yo">Yoruba</option><option value="zu">Zulú</option></select></td><td class="SL_td" width="3" align="center"><div id="SL_switch_b" title="Cambiar idiomas" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/switchb.png&quot;);"></div></td><td class="SL_td" width="20%" align="left"><select id="SL_lng_to" class="SL_lngs"><option value="af">Afrikáans</option><option value="sq">Albanés</option><option value="de">Alemán</option><option value="am">Amhárico</option><option value="ar">Árabe</option><option value="hy">Armenio</option><option value="az">Azerí</option><option value="bn">Bengalí</option><option value="be">Bielorruso</option><option value="my">Birmano</option><option value="bs">Bosnio</option><option value="bg">Búlgaro</option><option value="km">Camboyano</option><option value="kn">Canarés</option><option value="ca">Catalán</option><option value="ceb">Cebuano</option><option value="cs">Checo</option><option value="ny">Chichewa</option><option value="zh-CN">Chino simp</option><option value="zh-TW">Chino trad</option><option value="si">Cincalés</option><option value="ko">Coreano</option><option value="co">Corso</option><option value="ht">Criollo haitiano</option><option value="hr">Croata</option><option value="da">Danés</option><option value="sk">Eslovaco</option><option value="sl">Esloveno</option><option selected="selected" value="es">Español</option><option value="eo">Esperanto</option><option value="et">Estonio</option><option value="eu">Euskera</option><option value="fi">Finlandés</option><option value="fr">Francés</option><option value="fy">Frisio</option><option value="gd">Gaélico escocés</option><option value="cy">Galés</option><option value="gl">Gallego</option><option value="ka">Georgiano</option><option value="el">Griego</option><option value="gu">Gujarati</option><option value="ha">Hausa</option><option value="haw">Hawaiano</option><option value="iw">Hebreo</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="nl">Holandés</option><option value="hu">Húngaro</option><option value="ig">Igbo</option><option value="id">Indonesio</option><option value="en">Inglés</option><option value="ga">Irlandés</option><option value="is">Islandés</option><option value="it">Italiano</option><option value="ja">Japonés</option><option value="jw">Javanés</option><option value="kk">Kazajo</option><option value="ky">Kirguís</option><option value="ku">Kurdo</option><option value="lo">Lao</option><option value="la">Latín</option><option value="lv">Letón</option><option value="lt">Lituano</option><option value="lb">Luxemburgués</option><option value="mk">Macedonio</option><option value="ml">Malayalam</option><option value="ms">Malayo</option><option value="mg">Malgache</option><option value="mt">Maltés</option><option value="mi">Maorí</option><option value="mr">Maratí</option><option value="mn">Mongol</option><option value="ne">Nepalí</option><option value="no">Noruego</option><option value="pa">Panyabí</option><option value="ps">Pastún</option><option value="fa">Persa</option><option value="pl">Polaco</option><option value="pt">Portugués</option><option value="ro">Rumano</option><option value="ru">Ruso</option><option value="sm">Samoano</option><option value="sr">Serbio</option><option value="st">Sesoto</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="so">Somalí</option><option value="sw">Suajili</option><option value="sv">Sueco</option><option value="su">Sundanés</option><option value="tl">Tagalo</option><option value="th">Tailandés</option><option value="ta">Tamil</option><option value="tg">Tayiko</option><option value="te">Telugu</option><option value="tr">Turco</option><option value="uk">Ucraniano</option><option value="ur">Urdu</option><option value="uz">Uzbeco</option><option value="vi">Vietnamita</option><option value="xh">Xhosa</option><option value="yi">Yidis</option><option value="yo">Yoruba</option><option value="zu">Zulú</option></select></td><td class="SL_td" width="5%" align="center"> </td><td class="SL_td" width="8%" align="center"><div id="SL_TTS_voice" title="undefined" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/ttsvoice.png&quot;);"></div></td><td class="SL_td" width="8%" align="center"><div id="SL_copy" title="Copiar" class="SL_copy" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/copy.png&quot;);"><div id="SL_copy_tip"></div></div></td><td class="SL_td" width="0%" align="center"><div id="SL_bbl_font_patch"></div><div id="SL_bbl_font" style="display: none; background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/font.png&quot;);" title="Тamaño de fuente" class="SL_bbl_font"></div></td><td class="SL_td" width="0%" align="center"><div id="SL_bbl_help" title="Ayuda" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/bhelp.png&quot;);"></div></td><td class="SL_td" width="7%" align="right"><div id="SL_pin" class="SL_pin_off" title="Fijar la ventana de traducción" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/pin-on.png&quot;);"></div></td></tr></table></div></div><div id="SL_shadow_translation_result" style="visibility: visible;"></div><div id="SL_loading" class="SL_loading" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/loading.gif&quot;);"></div><div id="SL_player2" style="display: none;"></div><div id="SL_alert100" style="display: none;">La función de sonido está limitada a 200 caracteres</div><div id="SL_Balloon_options" style="border-radius: 0px 0px 10px 10px !important; background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/bg3.png&quot;) rgb(255, 255, 255);"><div id="SL_arrow_down" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/down.png&quot;);"></div><table id="SL_tbl_opt" width="100%"><tr><td class="SL_td" width="5%" align="center"><input id="SL_BBL_locer" type="checkbox" checked="1" title="Mostrar el botón ImTranslator 3 segundos"></td><td class="SL_td" width="5%" align="left"><div id="SL_BBL_IMG" title="Mostrar el botón ImTranslator 3 segundos" style="background: url(&quot;chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/img/util/bbl-logo.png&quot;);"></div></td><td class="SL_td" width="70%" align="center"><a href="chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/html/options/options.html?bbl" target="_blank" class="SL_options" title="Mostrar opciones">Opciones</a>                               <a href="chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/html/options/options.html?hist" target="_blank" class="SL_options" title="Historial de traducciones">Historia</a>   <a href="chrome-extension://eglccjjoebidkmiflmefccfkpffklaph/content/html/options/options.html?feed" style="display:none" target="_blank" class="SL_options" title="ImTranslator Feedback">Feedback</a>   <a href="http://imtranslator.net/extensions/?tp=chr-ImTranslator&amp;a=0" style="display:none" target="_blank" class="SL_options" title="Hacer una contribución">Donate</a></td><td class="SL_td" width="15%" align="right"><span id="SL_Balloon_Close" class="SL_options" title="Cerrar">Cerrar</span></td></tr></table></div></div></div>]]></description>
+		<LookAt>
+			<longitude>-78.14292083132825</longitude>
+			<latitude>0.04093217297506399</latitude>
+			<altitude>2825.063074489398</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>352.6284931138071</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_046AD9DB81247893E421</styleUrl>
+		<LineString>
+			<coordinates>
+				-78.14109066885233,0.0415891395572086,2830.486702921706 -78.14130631675131,0.04165455200667114,2829.670262753677 -78.14153517222933,0.04100428132836618,2827.207510685053 -78.14239332524805,0.04130484955058557,2826.080106107778 -78.14276508125538,0.04114026694560999,2825.26147052568 -78.14289320159324,0.04078020876578518,2825.063023368249 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

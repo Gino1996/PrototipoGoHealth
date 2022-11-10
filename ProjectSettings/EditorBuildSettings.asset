@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GPSCoordinate.unity
-    guid: 643fc964cd1451141a85b19719486bee
+    path: Assets/Scenes/VisualMinimapGps.unity
+    guid: dff9d3f69a877e042a79abc11d2facb6
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 06825382905cce44ab72c6a94de8e70e,
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: beab4cbe160185248bad8350796d06e4,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
       type: 2}
@@ -21,5 +21,5 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 68db5ca337afc8a43b290bda86ec8e7a,
       type: 2}

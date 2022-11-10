@@ -31,11 +31,11 @@ public class GPS : MonoBehaviour
 
     IEnumerator GetLocation()
     {
-        if (!Permission.HasUserAuthorizedPermission(Permission.FineLocation))
-        {
-            Permission.RequestUserPermission(Permission.FineLocation);
-            Permission.RequestUserPermission(Permission.CoarseLocation);
-        }
+        // if (!Permission.HasUserAuthorizedPermission(Permission.FineLocation))
+        // {
+        //     Permission.RequestUserPermission(Permission.FineLocation);
+        //     Permission.RequestUserPermission(Permission.CoarseLocation);
+        // }
 
         // First, check if user has location service enabled
         if (!Input.location.isEnabledByUser)
